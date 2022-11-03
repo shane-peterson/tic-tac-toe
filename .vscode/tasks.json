@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "problemMatcher": [],
+      "label": "npm: dev",
+      "detail": "vite",
+      "icon": {
+        "color": "terminal.ansiBlue",
+        "id": "server"
+      },
+      "runOptions": { "runOn": "folderOpen" }
+    }
+  ]
+}
